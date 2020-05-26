@@ -22,7 +22,7 @@ const Home = {
         <div class="container">
           ${formResult}
         </div>
-        <iframe width='853' height='480' frameborder=0 allowfullscreen src='https://my.matterport.com/work/?m=GKYmXGXGBnT&back=1'></iframe>
+        <iframe width='853' height='480' frameborder=0 allowfullscreen src='https://my.matterport.com/show/?m=GKYmXGXGBnT&brand=0&help=1'></iframe>
       </section>
     `;
   },
